@@ -36,4 +36,3 @@ applications and Python tools that solve real problems.
 ## 🌐 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-jain-berlin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://akshatjain200515-github-io.vercel.app/)
